@@ -1,0 +1,14 @@
+img {
+
+}
+h1 {
+  color: red;
+  font-size: 100px;
+  align: center;
+}
+
+body {
+  cursor: url(../images/kevin-bacon-cursor.png), auto;
+  text-align: center;
+
+}
